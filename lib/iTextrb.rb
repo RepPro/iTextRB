@@ -1,5 +1,5 @@
-require "iTextrb/version"
+require "iTextRB/version"
 
-module ITextrb
+module ITextRB
   # Your code goes here...
 end
