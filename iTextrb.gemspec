@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "iTextRB"
   spec.version       = ITextRB::VERSION
   spec.authors       = ["Christopher Ostrowski"]
-  spec.email         = ["chris@madebyfunction.com"]
+  spec.email         = ["chris@reppro.co"]
   spec.summary       = %q{A Rubyified wrapper around the Java iText PDF Library.}
   spec.description   = %q{A simple wrapper around the popular Java/C# PDF manipulation library, "iText". This gem required jRuby to run.}
   spec.homepage      = ""

@@ -4,7 +4,7 @@ This gem is an extraction from the RepPro PDF service. It will mature overtime t
 
 ## Installation
 This gem includes the iText JAR files.
-jRuby => 1.6 is required.
+jRuby >= 1.6 is required.
 
 Add this line to your application's Gemfile:
 
