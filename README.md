@@ -1,8 +1,10 @@
 # ITextRB
 
-TODO: Write a gem description
+This gem is an extraction from the RepPro PDF service. It will mature overtime to implement as much of the iText API as possible, however, it will serve as a simple interface to read and write PDF forms for now.
 
 ## Installation
+This gem includes the iText JAR files.
+jRuby => 1.6 is required.
 
 Add this line to your application's Gemfile:
 
