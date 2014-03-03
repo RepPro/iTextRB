@@ -1,6 +1,6 @@
 require "iTextRB/version"
 require 'java'
-require 'jars/itextpdf-5.5.0.jar'
+require 'jbundler'
 
 module ITextRB
   module JavaIO; include_package "java.io"; end

@@ -1,0 +1,1 @@
+jar 'com.itextpdf:itextpdf', '5.5.0'
