@@ -1,6 +1,5 @@
 require "iTextRB/version"
 require 'java'
-require 'jbundler'
 
 module ITextRB
   module JavaIO; include_package "java.io"; end
